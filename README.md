@@ -1,6 +1,6 @@
 <h1 style=" color : red; ">YOSOSU-YOGI</h1>
 
-<img src="https://images.velog.io/images/shyunju7/post/c9560549-2be7-4ab3-94ad-fe60667e7bd0/Group%2044%20(1).png" width="20px" height="20px"/>  <label style="color:red">요소수 요기서는 요소수 판매 주유소 정보를 보기 쉽게 제공해주는 서비스 입니다. </label>
+<img src="https://images.velog.io/images/shyunju7/post/c9560549-2be7-4ab3-94ad-fe60667e7bd0/Group%2044%20(1).png" width="20px" height="20px"/>  <label style="color:red">요소수 요기서는 요소수 판매 주유소 정보를 한눈에 보기 쉽게 제공해주는 웹 서비스 입니다. </label>
 
 ![](https://images.velog.io/images/shyunju7/post/bea9e208-2b90-4972-af8e-70cb70d3cc17/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-12-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.42.34.png)
 
